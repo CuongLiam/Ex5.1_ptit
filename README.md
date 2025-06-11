@@ -4,3 +4,6 @@ Cài đặt class có tên EX51_MSSV, chứa hàm main. Trong hàm main, SV đ�
 Đối tượng 1: Circle
 Đối tượng 2: Rectangle
 Xuất thông tin của 3 đối tượng (print với toString()).
+
+
+picture : ex5.1 in classroom
